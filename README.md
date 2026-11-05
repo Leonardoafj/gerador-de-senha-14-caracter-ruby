@@ -1,2 +1,1 @@
-# gerador-de-senha-14-caracter
-# Basta dar run no codigo e a senha aparecera no terminal.
+# This is a simple Ruby application that generates random passwords with a fixed length of 14 characters, using a mix of letters, numbers and symbols. Features: – Generates secure passwords of 14 characters. – Includes uppercase letters, lowercase letters, numbers and special symbols. How to Run: 1. Make sure you have Ruby installed on your computer. 2. Clone this repository: git clone 3. Run the script with ruby main.rb Improvements (optional): – Add customization for password length. – Add options to include or exclude certain characters.
